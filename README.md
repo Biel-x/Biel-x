@@ -14,7 +14,7 @@ Minha área é mais voltada pra websites, APIs e jogos, com foco principal em **
 
 - Sites e APIs completas em Node
 - Automações e sistemas em Python
-- Projetos em volta do Free Fire: partidas, likes e APIs de informação
+- Projetos em volta do Free Fire: UP Contas, UP Guildas, Unlock ALL e APIs completas para DEVs
 
 ### O que eu uso
 
