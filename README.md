@@ -26,4 +26,11 @@ Minha área é mais voltada pra websites, APIs e jogos, com foco principal em **
 <img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />
 
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Biel-x/Biel-x/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Biel-x/Biel-x/output/snake.svg" alt="snake" width="820" />
+</picture>
+
 </div>
